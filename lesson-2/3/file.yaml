@@ -1,0 +1,11 @@
+items:
+- guitar
+- violin
+- piano
+- flute
+items_quantity: 4
+items_price:
+  guitar: 250€
+  violin: 500€
+  piano: 830€
+  flute: 750€
