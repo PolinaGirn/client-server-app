@@ -2,17 +2,16 @@
 
 import json
 import sys
-from common.variables import MAX_PACKAGE_LENGTH, ENCODING
-
+from lesson_7.practice.common.variables import MAX_PACKAGE_LENGTH, ENCODING
+from lesson_7.practice.errors import IncorrectDataRecivedError, NonDictInputError
+from lesson_7.practice.decos import log
 sys.path.append('../')
-from errors import IncorrectDataRecivedError, NonDictInputError
-from decos import log
 
 
 @log
 def get_message(client):
     """
-    Утилита приёма и декодирования сообщенияпринимает байты выдаёт словарь,
+    Утилита приёма и декодирования сообщения принимает байты выдаёт словарь,
     если приняточто-то другое отдаёт ошибку значения
     :param client:
     :return:
