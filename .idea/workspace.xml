@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4f7b91a-5d74-4c4a-bd88-837d1dca9c31" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/add_contact.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/client.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/client_User.db3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/client_test1.db3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/client_test2.db3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/del_contact.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/main_window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/main_window_conv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/start_dialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client/transport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/client_send.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/common/decos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/common/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/common/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/common/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/common/utils_for_log_as_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/common/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/common/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/decos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/decos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/decos_as_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/descryptors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/launcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/launcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/launcher_ubuntu.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/launcher_ubuntu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/logs/config_client_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/logs/config_client_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/logs/config_server_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/logs/config_server_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/logs/server.log.2019-07-30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/logs/server.log.2019-11-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/logs/server.log.2021-10-29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/logs/server.log.2021-11-03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/logs/server.log.2021-11-05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/metaclasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/server.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/server_database.db3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/server_database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/server_gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/server_where_log_is_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/unit_tests/test_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/unit_tests/test_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/unit_tests/test_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/unit_tests/test_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/unit_tests/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/unit_tests/test_utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FyowKNgjfsfMgtYzmVOKRfMybo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f7b91a-5d74-4c4a-bd88-837d1dca9c31" name="Changes" comment="" />
+      <created>1665473928069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665473928069</updated>
+    </task>
+    <servers />
+  </component>
+</project>
